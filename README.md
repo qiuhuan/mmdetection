@@ -3,6 +3,8 @@
 
 ## Introduction
 
+[Paper](https://arxiv.org/abs/1901.07518)
+
 The master branch works with **PyTorch 1.0**. If you would like to use PyTorch 0.4.1,
 please checkout to the [pytorch-0.4.1](https://github.com/open-mmlab/mmdetection/tree/pytorch-0.4.1) branch.
 
